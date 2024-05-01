@@ -1,50 +1,50 @@
-primary_industry;secteur;Secteurlarge
-Automobile Manufacturers;Consumer Discretionary;Automobiles & Components
-Automotive Retail;Consumer Discretionary;Automobiles & Components
-Motorcycle Manufacturers;Consumer Discretionary;Automobiles & Components
-Tires and Rubber;Consumer Discretionary;Automobiles & Components
+primary_industry;secteur;secteurlarge
+Automobile Manufacturers;Consumer Discretionary;Automobiles and Components
+Automotive Retail;Consumer Discretionary;Automobiles and Components
+Motorcycle Manufacturers;Consumer Discretionary;Automobiles and Components
+Tires and Rubber;Consumer Discretionary;Automobiles and Components
 Diversified Banks;Financials;Banks
 Regional Banks;Financials;Banks
-Commercial Printing;Industrials, commercial and transportation;Commercial & Professional Services
-Data Processing and Outsourced Services;Industrials, commercial and transportation;Commercial & Professional Services
-Diversified Support Services;Industrials, commercial and transportation;Commercial & Professional Services
-Environmental and Facilities Services;Industrials, commercial and transportation;Commercial & Professional Services
-Human Resource and Employment Services;Industrials, commercial and transportation;Commercial & Professional Services
-Office Services and Supplies;Industrials, commercial and transportation;Commercial & Professional Services
-Research and Consulting Services;Industrials, commercial and transportation;Commercial & Professional Services
-Security and Alarm Services;Industrials, commercial and transportation;Commercial & Professional Services
+Commercial Printing;Industrials, commercial and transportation;Commercial and Professional Services
+Data Processing and Outsourced Services;Industrials, commercial and transportation;Commercial and Professional Services
+Diversified Support Services;Industrials, commercial and transportation;Commercial and Professional Services
+Environmental and Facilities Services;Industrials, commercial and transportation;Commercial and Professional Services
+Human Resource and Employment Services;Industrials, commercial and transportation;Commercial and Professional Services
+Office Services and Supplies;Industrials, commercial and transportation;Commercial and Professional Services
+Research and Consulting Services;Industrials, commercial and transportation;Commercial and Professional Services
+Security and Alarm Services;Industrials, commercial and transportation;Commercial and Professional Services
 Aerospace and Defense;Industrials, capital goods;Construction, Engineering, Building, Aerospace and Defense
 Building Products;Industrials, capital goods;Construction, Engineering, Building, Aerospace and Defense
 Construction and Engineering;Industrials, capital goods;Construction, Engineering, Building, Aerospace and Defense
-Apparel, Accessories and Luxury Goods;Consumer Discretionary;Consumer Discretionary Distribution & Retail
-Auto Parts and Equipment;Consumer Discretionary;Consumer Discretionary Distribution & Retail
-Computer and Electronics Retail;Consumer Discretionary;Consumer Discretionary Distribution & Retail
-Distributors;Consumer Discretionary;Consumer Discretionary Distribution & Retail
-Home Improvement Retail;Consumer Discretionary;Consumer Discretionary Distribution & Retail
-Homefurnishing Retail;Consumer Discretionary;Consumer Discretionary Distribution & Retail
-Apparel Retail;Consumer Discretionary;Consumer Durables & Apparel
-Consumer Electronics;Consumer Discretionary;Consumer Durables & Apparel
-Footwear;Consumer Discretionary;Consumer Durables & Apparel
-Home Furnishings;Consumer Discretionary;Consumer Durables & Apparel
-Homebuilding;Consumer Discretionary;Consumer Durables & Apparel
-Household Appliances;Consumer Discretionary;Consumer Durables & Apparel
-Housewares and Specialties;Consumer Discretionary;Consumer Durables & Apparel
-Leisure Products;Consumer Discretionary;Consumer Durables & Apparel
-Textiles;Consumer Discretionary;Consumer Durables & Apparel
+Apparel, Accessories and Luxury Goods;Consumer Discretionary;Consumer Discretionary Distribution and Retail
+Auto Parts and Equipment;Consumer Discretionary;Consumer Discretionary Distribution and Retail
+Computer and Electronics Retail;Consumer Discretionary;Consumer Discretionary Distribution and Retail
+Distributors;Consumer Discretionary;Consumer Discretionary Distribution and Retail
+Home Improvement Retail;Consumer Discretionary;Consumer Discretionary Distribution and Retail
+Homefurnishing Retail;Consumer Discretionary;Consumer Discretionary Distribution and Retail
+Apparel Retail;Consumer Discretionary;Consumer Durables and Apparel
+Consumer Electronics;Consumer Discretionary;Consumer Durables and Apparel
+Footwear;Consumer Discretionary;Consumer Durables and Apparel
+Home Furnishings;Consumer Discretionary;Consumer Durables and Apparel
+Homebuilding;Consumer Discretionary;Consumer Durables and Apparel
+Household Appliances;Consumer Discretionary;Consumer Durables and Apparel
+Housewares and Specialties;Consumer Discretionary;Consumer Durables and Apparel
+Leisure Products;Consumer Discretionary;Consumer Durables and Apparel
+Textiles;Consumer Discretionary;Consumer Durables and Apparel
 Casinos and Gaming;Consumer Discretionary;Consumer Services
 Education Services;Consumer Discretionary;Consumer Services
 Hotels, Resorts and Cruise Lines;Consumer Discretionary;Consumer Services
 Leisure Facilities;Consumer Discretionary;Consumer Services
 Restaurants;Consumer Discretionary;Consumer Services
 Specialized Consumer Services;Consumer Discretionary;Consumer Services
-Department Stores;Consumer Staples;Consumer Staples Distribution & Retail
-Drug Retail;Consumer Staples;Consumer Staples Distribution & Retail
-Food Distributors;Consumer Staples;Consumer Staples Distribution & Retail
-Food Retail;Consumer Staples;Consumer Staples Distribution & Retail
-General Merchandise Stores;Consumer Staples;Consumer Staples Distribution & Retail
-Hypermarkets and Super Centers;Consumer Staples;Consumer Staples Distribution & Retail
-Internet and Direct Marketing Retail;Consumer Staples;Consumer Staples Distribution & Retail
-Specialty Stores;Consumer Staples;Consumer Staples Distribution & Retail
+Department Stores;Consumer Staples;Consumer Staples Distribution and Retail
+Drug Retail;Consumer Staples;Consumer Staples Distribution and Retail
+Food Distributors;Consumer Staples;Consumer Staples Distribution and Retail
+Food Retail;Consumer Staples;Consumer Staples Distribution and Retail
+General Merchandise Stores;Consumer Staples;Consumer Staples Distribution and Retail
+Hypermarkets and Super Centers;Consumer Staples;Consumer Staples Distribution and Retail
+Internet and Direct Marketing Retail;Consumer Staples;Consumer Staples Distribution and Retail
+Specialty Stores;Consumer Staples;Consumer Staples Distribution and Retail
 Electrical Components and Equipment;Industrials, capital goods;Electrical Equipment
 Heavy Electrical Equipment;Industrials, capital goods;Electrical Equipment
 Coal and Consumable Fuels;Energy;Energy
@@ -68,21 +68,21 @@ Multi-Sector Holdings;Financials;Financial Services
 Other Diversified Financial Services;Financials;Financial Services
 Specialized Finance;Financials;Financial Services
 Thrifts and Mortgage Finance;Financials;Financial Services
-Agricultural Products;Consumer Staples;Food, Beverage & Tobacco
-Brewers;Consumer Staples;Food, Beverage & Tobacco
-Distillers and Vintners;Consumer Staples;Food, Beverage & Tobacco
-Packaged Foods and Meats;Consumer Staples;Food, Beverage & Tobacco
-Soft Drinks;Consumer Staples;Food, Beverage & Tobacco
-Tobacco;Consumer Staples;Food, Beverage & Tobacco
-Health Care Distributors;Health Care;Health Care Equipment & Services
-Health Care Equipment;Health Care;Health Care Equipment & Services
-Health Care Facilities;Health Care;Health Care Equipment & Services
-Health Care Services;Health Care;Health Care Equipment & Services
-Health Care Supplies;Health Care;Health Care Equipment & Services
-Health Care Technology;Health Care;Health Care Equipment & Services
-Managed Health Care;Health Care;Health Care Equipment & Services
-Household Products;Consumer Staples;Household & Personal Products
-Personal Products;Consumer Staples;Household & Personal Products
+Agricultural Products;Consumer Staples;Food, Beverage and Tobacco
+Brewers;Consumer Staples;Food, Beverage and Tobacco
+Distillers and Vintners;Consumer Staples;Food, Beverage and Tobacco
+Packaged Foods and Meats;Consumer Staples;Food, Beverage and Tobacco
+Soft Drinks;Consumer Staples;Food, Beverage and Tobacco
+Tobacco;Consumer Staples;Food, Beverage and Tobacco
+Health Care Distributors;Health Care;Health Care Equipment and Services
+Health Care Equipment;Health Care;Health Care Equipment and Services
+Health Care Facilities;Health Care;Health Care Equipment and Services
+Health Care Services;Health Care;Health Care Equipment and Services
+Health Care Supplies;Health Care;Health Care Equipment and Services
+Health Care Technology;Health Care;Health Care Equipment and Services
+Managed Health Care;Health Care;Health Care Equipment and Services
+Household Products;Consumer Staples;Household and Personal Products
+Personal Products;Consumer Staples;Household and Personal Products
 Insurance Brokers;Financials;Insurance
 Life and Health Insurance;Financials;Insurance
 Multi-line Insurance;Financials;Insurance
@@ -108,32 +108,32 @@ Precious Metals and Minerals;Materials;Materials
 Silver;Materials;Materials
 Specialty Chemicals;Materials;Materials
 Steel;Materials;Materials
-Advertising;Communication Services;Media & Entertainment
-Broadcasting;Communication Services;Media & Entertainment
-Cable and Satellite;Communication Services;Media & Entertainment
-Interactive Home Entertainment;Communication Services;Media & Entertainment
-Interactive Media and Services;Communication Services;Media & Entertainment
-Movies and Entertainment;Communication Services;Media & Entertainment
-Publishing;Communication Services;Media & Entertainment
-Biotechnology;Health Care;Pharmaceuticals, Biotechnology & Life Sciences
-Life Sciences Tools and Services;Health Care;Pharmaceuticals, Biotechnology & Life Sciences
-Pharmaceuticals;Health Care;Pharmaceuticals, Biotechnology & Life Sciences
-Diversified Real Estate Activities;Real Estate;Real Estate Management & Development
-Real Estate Development;Real Estate;Real Estate Management & Development
-Real Estate Operating Companies;Real Estate;Real Estate Management & Development
-Real Estate Services;Real Estate;Real Estate Management & Development
-Semiconductor Equipment;Information Technology;Semiconductors & Semiconductor Equipment
-Semiconductors;Information Technology;Semiconductors & Semiconductor Equipment
-Application Software;Information Technology;Software & Services
-Internet Services and Infrastructure;Information Technology;Software & Services
-IT Consulting and Other Services;Information Technology;Software & Services
-Systems Software;Information Technology;Software & Services
-Communications Equipment;Information Technology;Technology Hardware & Equipment
-Electronic Components;Information Technology;Technology Hardware & Equipment
-Electronic Equipment and Instruments;Information Technology;Technology Hardware & Equipment
-Electronic Manufacturing Services;Information Technology;Technology Hardware & Equipment
-Technology Distributors;Information Technology;Technology Hardware & Equipment
-Technology Hardware, Storage and Peripherals;Information Technology;Technology Hardware & Equipment
+Advertising;Communication Services;Media and Entertainment
+Broadcasting;Communication Services;Media and Entertainment
+Cable and Satellite;Communication Services;Media and Entertainment
+Interactive Home Entertainment;Communication Services;Media and Entertainment
+Interactive Media and Services;Communication Services;Media and Entertainment
+Movies and Entertainment;Communication Services;Media and Entertainment
+Publishing;Communication Services;Media and Entertainment
+Biotechnology;Health Care;Pharmaceuticals, Biotechnology and Life Sciences
+Life Sciences Tools and Services;Health Care;Pharmaceuticals, Biotechnology and Life Sciences
+Pharmaceuticals;Health Care;Pharmaceuticals, Biotechnology and Life Sciences
+Diversified Real Estate Activities;Real Estate;Real Estate Management and Development
+Real Estate Development;Real Estate;Real Estate Management and Development
+Real Estate Operating Companies;Real Estate;Real Estate Management and Development
+Real Estate Services;Real Estate;Real Estate Management and Development
+Semiconductor Equipment;Information Technology;Semiconductors and Semiconductor Equipment
+Semiconductors;Information Technology;Semiconductors and Semiconductor Equipment
+Application Software;Information Technology;Software and Services
+Internet Services and Infrastructure;Information Technology;Software and Services
+IT Consulting and Other Services;Information Technology;Software and Services
+Systems Software;Information Technology;Software and Services
+Communications Equipment;Information Technology;Technology Hardware and Equipment
+Electronic Components;Information Technology;Technology Hardware and Equipment
+Electronic Equipment and Instruments;Information Technology;Technology Hardware and Equipment
+Electronic Manufacturing Services;Information Technology;Technology Hardware and Equipment
+Technology Distributors;Information Technology;Technology Hardware and Equipment
+Technology Hardware, Storage and Peripherals;Information Technology;Technology Hardware and Equipment
 Alternative Carriers;Communication Services;Telecommunication Services
 Integrated Telecommunication Services;Communication Services;Telecommunication Services
 Wireless Telecommunication Services;Communication Services;Telecommunication Services
