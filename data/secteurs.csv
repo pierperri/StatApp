@@ -1,4 +1,4 @@
-primary_industry;secteur;secteurlarge
+primary_industry;secteur;sous_secteur
 Automobile Manufacturers;Consumer Discretionary;Automobiles and Components
 Automotive Retail;Consumer Discretionary;Automobiles and Components
 Motorcycle Manufacturers;Consumer Discretionary;Automobiles and Components
@@ -37,14 +37,14 @@ Hotels, Resorts and Cruise Lines;Consumer Discretionary;Consumer Services
 Leisure Facilities;Consumer Discretionary;Consumer Services
 Restaurants;Consumer Discretionary;Consumer Services
 Specialized Consumer Services;Consumer Discretionary;Consumer Services
-Department Stores;Consumer Staples;Consumer Staples Distribution and Retail
-Drug Retail;Consumer Staples;Consumer Staples Distribution and Retail
-Food Distributors;Consumer Staples;Consumer Staples Distribution and Retail
-Food Retail;Consumer Staples;Consumer Staples Distribution and Retail
-General Merchandise Stores;Consumer Staples;Consumer Staples Distribution and Retail
-Hypermarkets and Super Centers;Consumer Staples;Consumer Staples Distribution and Retail
-Internet and Direct Marketing Retail;Consumer Staples;Consumer Staples Distribution and Retail
-Specialty Stores;Consumer Staples;Consumer Staples Distribution and Retail
+Department Stores;Consumer Staples;Consumer Staples Distribution, Retail and household products
+Drug Retail;Consumer Staples;Consumer Staples Distribution, Retail and household products
+Food Distributors;Consumer Staples;Consumer Staples Distribution, Retail and household products
+Food Retail;Consumer Staples;Consumer Staples Distribution, Retail and household products
+General Merchandise Stores;Consumer Staples;Consumer Staples Distribution, Retail and household products
+Hypermarkets and Super Centers;Consumer Staples;Consumer Staples Distribution, Retail and household products
+Internet and Direct Marketing Retail;Consumer Staples;Consumer Staples Distribution, Retail and household products
+Specialty Stores;Consumer Staples;Consumer Staples Distribution, Retail and household products
 Electrical Components and Equipment;Industrials, capital goods;Electrical Equipment
 Heavy Electrical Equipment;Industrials, capital goods;Electrical Equipment
 Coal and Consumable Fuels;Energy;Energy
@@ -54,10 +54,10 @@ Oil and Gas Equipment and Services;Energy;Energy
 Oil and Gas Exploration and Production;Energy;Energy
 Oil and Gas Refining and Marketing;Energy;Energy
 Oil and Gas Storage and Transportation;Energy;Energy
-Diversified REITs;Real Estate;Equity Real Estate Investment Trusts (REITs)
-Industrial REITs;Real Estate;Equity Real Estate Investment Trusts (REITs)
-Office REITs;Real Estate;Equity Real Estate Investment Trusts (REITs)
-Retail REITs;Real Estate;Equity Real Estate Investment Trusts (REITs)
+Diversified REITs;Real Estate;Real Estate
+Industrial REITs;Real Estate;Real Estate
+Office REITs;Real Estate;Real Estate
+Retail REITs;Real Estate;Real Estate
 Asset Management and Custody Banks;Financials;Financial Services
 Consumer Finance;Financials;Financial Services
 Diversified Capital Markets;Financials;Financial Services
@@ -81,8 +81,8 @@ Health Care Services;Health Care;Health Care Equipment and Services
 Health Care Supplies;Health Care;Health Care Equipment and Services
 Health Care Technology;Health Care;Health Care Equipment and Services
 Managed Health Care;Health Care;Health Care Equipment and Services
-Household Products;Consumer Staples;Household and Personal Products
-Personal Products;Consumer Staples;Household and Personal Products
+Household Products;Consumer Staples;Consumer Staples Distribution, Retail and household products
+Personal Products;Consumer Staples;Consumer Staples Distribution, Retail and household products
 Insurance Brokers;Financials;Insurance
 Life and Health Insurance;Financials;Insurance
 Multi-line Insurance;Financials;Insurance
@@ -91,23 +91,23 @@ Reinsurance;Financials;Insurance
 Agricultural and Farm Machinery;Industrials, capital goods;Machinery
 Construction Machinery and Heavy Trucks;Industrials, capital goods;Machinery
 Industrial Machinery;Industrials, capital goods;Machinery
-Aluminum;Materials;Materials
-Commodity Chemicals;Materials;Materials
-Construction Materials;Materials;Materials
-Copper;Materials;Materials
-Diversified Chemicals;Materials;Materials
-Diversified Metals and Mining;Materials;Materials
-Fertilizers and Agricultural Chemicals;Materials;Materials
-Forest Products;Materials;Materials
-Gold;Materials;Materials
-Industrial Gases;Materials;Materials
-Metal and Glass Containers;Materials;Materials
-Paper Packaging;Materials;Materials
-Paper Products;Materials;Materials
-Precious Metals and Minerals;Materials;Materials
-Silver;Materials;Materials
-Specialty Chemicals;Materials;Materials
-Steel;Materials;Materials
+Aluminum;Materials;Metal, Mining and Construction Materials
+Commodity Chemicals;Materials;Chemicals
+Construction Materials;Materials;Metal, Mining and Construction Materials
+Copper;Materials;Metal, Mining and Construction Materials
+Diversified Chemicals;Materials;Chemicals
+Diversified Metals and Mining;Materials;Metal, Mining and Construction Materials
+Fertilizers and Agricultural Chemicals;Materials;Chemicals
+Forest Products;Materials;Containers, Packaging, Paper and Forest Products
+Gold;Materials;Metal, Mining and Construction Materials
+Industrial Gases;Materials;Chemicals
+Metal and Glass Containers;Materials;Containers, Packaging, Paper and Forest Products
+Paper Packaging;Materials;Containers, Packaging, Paper and Forest Products
+Paper Products;Materials;Containers, Packaging, Paper and Forest Products
+Precious Metals and Minerals;Materials;Metal, Mining and Construction Materials
+Silver;Materials;Metal, Mining and Construction Materials
+Specialty Chemicals;Materials;Chemicals
+Steel;Materials;Metal, Mining and Construction Materials
 Advertising;Communication Services;Media and Entertainment
 Broadcasting;Communication Services;Media and Entertainment
 Cable and Satellite;Communication Services;Media and Entertainment
@@ -118,10 +118,10 @@ Publishing;Communication Services;Media and Entertainment
 Biotechnology;Health Care;Pharmaceuticals, Biotechnology and Life Sciences
 Life Sciences Tools and Services;Health Care;Pharmaceuticals, Biotechnology and Life Sciences
 Pharmaceuticals;Health Care;Pharmaceuticals, Biotechnology and Life Sciences
-Diversified Real Estate Activities;Real Estate;Real Estate Management and Development
-Real Estate Development;Real Estate;Real Estate Management and Development
-Real Estate Operating Companies;Real Estate;Real Estate Management and Development
-Real Estate Services;Real Estate;Real Estate Management and Development
+Diversified Real Estate Activities;Real Estate;Real Estate
+Real Estate Development;Real Estate;Real Estate
+Real Estate Operating Companies;Real Estate;Real Estate
+Real Estate Services;Real Estate;Real Estate
 Semiconductor Equipment;Information Technology;Semiconductors and Semiconductor Equipment
 Semiconductors;Information Technology;Semiconductors and Semiconductor Equipment
 Application Software;Information Technology;Software and Services
